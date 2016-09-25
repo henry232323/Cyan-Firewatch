@@ -7,18 +7,18 @@ Small fork of Cyan Firewatch with nice Homestuck background
 >Also, thank you Fru#4034, Kappa123#0193 and NicodemiusX#5378  for extensively testing the theme.
 
 
-Full Resolution Previews:
-Homestuck
+#Full Resolution Previews:
+##Homestuck
 ![Preview](https://raw.githubusercontent.com/henry232323/Cyan-Firewatch/Homestuck/firewatch-preview.JPG)
 
 ![Photo](https://images4.alphacoders.com/204/204604.jpg)
 
-Custom
+##Custom
 ![Preview](https://raw.githubusercontent.com/henry232323/Cyan-Firewatch/master/custom-preview.JPG)
 
 ![Photo](https://orig08.deviantart.net/1686/f/2013/305/2/c/pentool_forest1_by_axl99-d6so5lb.jpg)
 
-AJ's
+##AJ's
 ![Preview](https://raw.githubusercontent.com/henry232323/Cyan-Firewatch/master/ajs-preview.JPG)
 
 ![Photos](https://media.giphy.com/media/VjI9yldoeRyTK/giphy.gif)
