@@ -1,4 +1,4 @@
-# Cyan-Firewatch
+# Homestuck Firewatch
 
 Big thank you to Nirewen#6392, Maware#2031, Omniscient#7994, Zerthox#6648 and Hammock#6027 for helping with all of the CSS issues I encountered. Apologies if I have forgotten to mention anyone.
 
@@ -9,21 +9,7 @@ Full Resolution Preview:
 
 <img src="https://i.imgur.com/ud6fDfP.jpg"/>
 
-Laptop Resolution Preview (Approx 1280x800)
-
-<img src="https://i.imgur.com/boCBaTI.png"/>
-
-Settings Menu:
-
-<img src="https://i.imgur.com/krDiTyb.png"/>
-
-Low Res Support:
-
-<img src="https://i.imgur.com/JhDXxIo.png"/>
-
-Private / Code Messaging Preview:
-
-<img src="https://i.imgur.com/Il46n31.jpg"/>
+![Photo](https://images4.alphacoders.com/204/204604.jpg)
 
 
 # Installation:
@@ -37,5 +23,6 @@ Private / Code Messaging Preview:
 3. If the theme doesnt appear in your themes list, restart discord and go back into BetterDiscord > Themes and select Cyan-Firewatch and restart a last time.
 
 The theme will activate after the last restart.
+
 
 
