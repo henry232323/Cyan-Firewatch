@@ -1,13 +1,14 @@
 # Homestuck Firewatch
+Small fork of Cyan Firewatch with nice Homestuck background
 
-Big thank you to Nirewen#6392, Maware#2031, Omniscient#7994, Zerthox#6648 and Hammock#6027 for helping with all of the CSS issues I encountered. Apologies if I have forgotten to mention anyone.
-
-Also, thank you Fru#4034, Kappa123#0193 and NicodemiusX#5378  for extensively testing the theme.
+># Cyan Firewatch
+>Big thank you to Nirewen#6392, Maware#2031, Omniscient#7994, Zerthox#6648 and Hammock#6027 for helping with all of the CSS issues I ?>encountered. Apologies if I have forgotten to mention anyone.
+>
+>Also, thank you Fru#4034, Kappa123#0193 and NicodemiusX#5378  for extensively testing the theme.
 
 
 Full Resolution Preview:
-
-<img src="https://i.imgur.com/ud6fDfP.jpg"/>
+![Preview](https://raw.githubusercontent.com/henry232323/Cyan-Firewatch/Homestuck/firewatch-preview.JPG)
 
 ![Photo](https://images4.alphacoders.com/204/204604.jpg)
 
