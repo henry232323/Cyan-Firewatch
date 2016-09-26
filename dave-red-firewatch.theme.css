@@ -105,7 +105,7 @@ body {
     border-left: 3px solid #660000;
 }
 .avatar-large.animate {
-    border: 2px solid rgba(0, 204, 204, 0.6) !important;
+    border: 2px solid rgba(102,0,0, 0.6) !important;
     width: 40px;
     height: 40px;
 }
@@ -127,7 +127,7 @@ body {
     opacity: 1;
 }
 .invite-btn {
-    background-color: rgba(0, 204, 204, 0.5) !Important;
+    background-color: rgba(102,0,0, 0.5) !Important;
 }
 .private-channels .channel:hover:before {
     opacity: .25 !important;
@@ -572,7 +572,7 @@ body {
 }
 
 .highlight {
-    color: #00faf2 !important;
+    color: #fa0000 !important;
 }
 .highlight:hover {
     background-color: rgba(0, 0, 0, 0.3) !important;
@@ -585,14 +585,14 @@ body {
     margin-top: 1px;
 }
 .friends-icon {
-    background-color: rgba(0, 204, 204, 0.9);
+    background-color: rgba(102,0,0, 0.9);
 }
 .friends-online {
     color: #ffffff;
 }
 .guild-separator {
-    border-top: 2px solid rgba(0, 204, 204, 0.5);
-    border-bottom: 2px solid rgba(0, 204, 204, 0.5);
+    border-top: 2px solid rgba(102,0,0, 0.5);
+    border-bottom: 2px solid rgba(102,0,0, 0.5);
 }
 .guild-separator:after {
     background-color: transparent !important;
@@ -609,7 +609,7 @@ body {
 }
 .channel-members .member.popout-open {
     background: linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)) !important;
-    border-left: 4px solid rgba(0, 204, 204, 0.9);
+    border-left: 4px solid rgba(102,0,0, 0.9);
 }
 .status {
     border-color: transparent !important;
@@ -639,11 +639,11 @@ body {
     color: #660000 !important;
 }
 .divider.divider-red>div {
-    background: rgba(0, 204, 204, 0.7) !important;
+    background: rgba(102,0,0, 0.7) !important;
 }
 .channel-textarea-inner textarea {
     padding-left: 10px !important;
-    color: rgba(0, 204, 204, 0.7) !Important;
+    color: rgba(102,0,0, 0.7) !Important;
 }
 /* Private Chat */
 
@@ -654,12 +654,12 @@ body {
     margin-left: 2vh;
 }
 .private-channels .channel.selected:before {
-    background-color: linear-gradient(to right, rgba(0, 204, 204, 0.4), rgba(0, 0, 0, 0.0)) !important;
+    background-color: linear-gradient(to right, rgba(102,0,0, 0.4), rgba(0, 0, 0, 0.0)) !important;
     border-left: 2px solid #660000;
 }
 .priavte-channels .channel:hover::before {
     border-left: 2px solid #660000 !important;
-    background-color: linear-gradient(to right, rgba(0, 204, 204, 0.4), rgba(0, 0, 0, 0.0)) !important;
+    background-color: linear-gradient(to right, rgba(102,0,0, 0.4), rgba(0, 0, 0, 0.0)) !important;
 }
 
 
@@ -672,14 +672,14 @@ body {
 }
 .search-bar-inner input {
     font-size: 62% !important;
-    border: 1px solid rgba(0, 204, 204, 0.4)!important;
+    border: 1px solid rgba(102,0,0, 0.4)!important;
 }
 /* Friends */
 
 #friends .friends-table .friends-table-body {
     background-color: rgba(0, 0, 0, 0.3) !important;
     border-radius: 10px;
-    border: 1px solid rgba(0, 204, 204, 0.0);
+    border: 1px solid rgba(102,0,0, 0.0);
     margin-left: 1.6vw;
     margin-bottom: 2.5vh;
     margin-right: 2.5vh;
@@ -727,11 +727,11 @@ span.bot-tag {
 /* Guilds 'Add' Button */
 
 .guild.guilds-add {
-    border-color: rgba(0, 204, 204, 0.5) !important;
+    border-color: rgba(102,0,0, 0.5) !important;
     border-style: groove !Important;
 }
 .guild.guilds-add:hover {
-    border-color: rgba(0, 204, 204, 0.9) !important;
+    border-color: rgba(102,0,0, 0.9) !important;
 }
 /* Speech bubble CSS */
 
@@ -884,7 +884,7 @@ div p a {
     background-size: cover !important;
 }
 .avatar-popout.animate {
-    border: 3px dotted rgba(0, 204, 204, 0.7) !important;
+    border: 3px dotted rgba(102,0,0, 0.7) !important;
     background-color: rgba(255, 255, 255, 0.8) !important;
 }
 .reset-voice-settings {
@@ -911,7 +911,7 @@ div p a {
 
 .channel-textarea-inner textarea {
     padding-left: 10px !important;
-    color: rgba(0, 204, 204, 0.7) !important;
+    color: rgba(102,0,0, 0.7) !important;
     background-color: transparent !important;
 }
 span.channel-name {
@@ -1004,7 +1004,7 @@ header.header {
 }
 div.sub-header {
     background: transparent !important;
-    background-color: rgba(0, 204, 204, 0.7) !important;
+    background-color: rgba(102,0,0, 0.7) !important;
 }
 div.btn {
     background-color: #660000 !important;
@@ -1041,7 +1041,7 @@ div.help-text {
 }
 .channel-pins-wrap .header {
     background: transparent !important;
-    background-color: rgba(0, 204, 204, 0.7) !important;
+    background-color: rgba(102,0,0, 0.7) !important;
 }
 .channel-pins .message-group {
     background: transparent !important;
@@ -1050,7 +1050,7 @@ div.help-text {
 }
 .action-buttons .jump-button {
     background: transparent !important;
-    background-color: rgba(0, 204, 204, 0.6) !important;
+    background-color: rgba(102,0,0, 0.6) !important;
     border: 1px solid rgba(0, 0, 0, 0.4) !important;
 }
 .guild-channels header {
@@ -1061,13 +1061,13 @@ div.help-text {
 }
 .theme-dark .channel-members .member:hover {
     background: linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.0)) !important;
-    border-left: 4px solid rgba(0, 204, 204, 0.3);
+    border-left: 4px solid rgba(102,0,0, 0.3);
 }
 li div span {
-    color: rgba(0, 204, 204, 0.8) !important;
+    color: rgba(102,0,0, 0.8) !important;
 }
 .channel-name:before {
-    color: rgba(0, 204, 204, 0.9) !important;
+    color: rgba(102,0,0, 0.9) !important;
 }
 .action.create {
     background-color: #ffffff !important;
@@ -1214,14 +1214,14 @@ div.new-messages-bar button {
 }
 
 .bd-dropdown-select {
-    background-color: rgba(0, 204, 204, 0.9) !important;
+    background-color: rgba(102,0,0, 0.9) !important;
     transition: all .3s ease-in-out;
     color: #fff !important;
     border-radius:5px;
 
 }
 input#pubs-sterm {
-    background-color: rgba(0, 204, 204, 0.9) !important;
+    background-color: rgba(102,0,0, 0.9) !important;
     transition: all .3s ease-in-out;
     color: #fff !important;
     padding-left:7px;
@@ -1231,7 +1231,7 @@ input#pubs-sterm {
     margin-left:-10px !important;
 }
 button#pubs-searchbtn {
-    background-color: rgba(0, 204, 204, 0.9) !important;
+    background-color: rgba(102,0,0, 0.9) !important;
     transition: all .3s ease-in-out;
     color: #fff !important;
     border-radius:5px;
@@ -1242,7 +1242,7 @@ div.bd-dropdown-list {
 }
 .pubs-cat-select-li {
     background: transparent !important;
-    background-color: rgba(0, 204, 204, 0.8) !important;
+    background-color: rgba(102,0,0, 0.8) !important;
     transition: all .3s ease-in-out;
     color: #fff !important;
 }
@@ -1277,7 +1277,7 @@ div.bd-dropdown {
 
 #pubs-footer {
     background: transparent !important;
-    background-color: rgba(0, 204, 204, 0.5) !important;
+    background-color: rgba(102,0,0, 0.5) !important;
     border-bottom-right-radius: 10px !important;
     border-bottom-left-radius: 10px !important;
     border-top: 1px solid rgba(255,255,255,0.3);
