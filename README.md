@@ -34,7 +34,7 @@ Small fork of Cyan Firewatch with nice Homestuck background
 
 2. Navigate to BetterDiscord > Themes and click "Open Theme Folder".
 
-2. Drop this cyan-firewatch.theme.css file inside of the folder which will pop up.
+2. Drop xxxxx-firewatch.theme.css file inside of the folder which will pop up.
 
 3. If the theme doesnt appear in your themes list, restart discord and go back into BetterDiscord > Themes and select Cyan-Firewatch and restart a last time.
 
