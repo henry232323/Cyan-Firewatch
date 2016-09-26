@@ -21,8 +21,12 @@ Small fork of Cyan Firewatch with nice Homestuck background
 ##AJ's
 ![Preview](https://raw.githubusercontent.com/henry232323/Cyan-Firewatch/master/ajs-preview.JPG)
 
-![Photos](https://media.giphy.com/media/VjI9yldoeRyTK/giphy.gif)
+![Photo](https://media.giphy.com/media/VjI9yldoeRyTK/giphy.gif)
 
+##Dave Red
+![Preview](https://raw.githubusercontent.com/henry232323/Cyan-Firewatch/master/dave-red-preview.JPG)
+
+![Photo](https://67.media.tumblr.com/50322be76419be3282df30773867a595/tumblr_mrjzp2Pu3R1rsy8nao1_1280.png)
 
 # Installation:
 
